@@ -1,0 +1,20 @@
+.heading {
+    text-align: center;
+    margin: 30px;
+    padding: 8px;
+    background-color: chartreuse;
+}
+
+.margins {
+    margin: 20px 30px auto 30px;
+}
+
+.flexcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.moarmargins {
+    margin: 20px auto;
+}
